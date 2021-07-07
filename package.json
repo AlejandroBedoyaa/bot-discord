@@ -1,0 +1,11 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "a discord bot example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bedoya",
+  "license": "ISC"
+}
